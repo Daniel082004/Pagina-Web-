@@ -1,0 +1,72 @@
+body{
+    background-image: url(paginas/fondo.jpg);
+    margin:0;
+    padding:0;
+    background-attachment:fixed;
+    background-size:100% 100%;
+    left: 10px;
+    padding-top: 3%;
+    padding-left: 0%;
+    padding-right: 2%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 200px 250px 1px 230px;
+    background: rgba(0, 0, 0, 0.566);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 47px;
+    border-radius: 15px;
+    border: black solid;
+    
+}
+
+.centrado{
+    color: black;
+    font-size: 10px;
+    margin: 0px 130px 0px 180px;
+}
+
+.display{
+    display: flex;
+}
+
+button{
+    background-color: rgba(0, 0, 0, 0.694);
+    border: none;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 30px;
+    margin: 0px 10px 0px 5px;
+    border: black solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+
+p{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    background: rgba(0, 0, 0, 0.566);
+    border-radius: 14px;
+    border: black solid;
+
+}
+
+
+.diseño2{
+    margin: 180px 490px 10px 490px;
+}
+
+.diseño{
+    font-size: 22px;
+}
